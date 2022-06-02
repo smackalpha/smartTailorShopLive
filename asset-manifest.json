@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/smartTailorShopLive/static/css/main.e6c13ad2.css",
+    "main.js": "/smartTailorShopLive/static/js/main.bf711071.js",
+    "static/js/787.ba246c25.chunk.js": "/smartTailorShopLive/static/js/787.ba246c25.chunk.js",
+    "static/media/img.svg": "/smartTailorShopLive/static/media/img.358ae013a0956f9b1f4e58f3b6fa8aac.svg",
+    "static/media/CustomerManagement.svg": "/smartTailorShopLive/static/media/CustomerManagement.1340efaa12096f47c27c614da3175783.svg",
+    "static/media/InteractiveCharts.svg": "/smartTailorShopLive/static/media/InteractiveCharts.fe753603e45bfd53f0c76ba570fb253e.svg",
+    "static/media/QuickOrder.svg": "/smartTailorShopLive/static/media/QuickOrder.375a9d70ca7390bff4e3bb8d81537203.svg",
+    "static/media/GSTBilling.svg": "/smartTailorShopLive/static/media/GSTBilling.2722b129bd01b0ecc7c205d42a5f1118.svg",
+    "static/media/MobileApp.svg": "/smartTailorShopLive/static/media/MobileApp.8bbe216d415f65dd62c86623434d5d0a.svg",
+    "static/media/FitInAllDevice.svg": "/smartTailorShopLive/static/media/FitInAllDevice.4171211e46115d9f133a0f4dcceea327.svg",
+    "static/media/ReportGeneration.svg": "/smartTailorShopLive/static/media/ReportGeneration.c8b88fecd1a13fd4bca0301a7e17cd87.svg",
+    "static/media/OneTimeMeasurement.svg": "/smartTailorShopLive/static/media/OneTimeMeasurement.f65d8b2e352f32fd1e4c9a66347f07b2.svg",
+    "index.html": "/smartTailorShopLive/index.html",
+    "main.e6c13ad2.css.map": "/smartTailorShopLive/static/css/main.e6c13ad2.css.map",
+    "main.bf711071.js.map": "/smartTailorShopLive/static/js/main.bf711071.js.map",
+    "787.ba246c25.chunk.js.map": "/smartTailorShopLive/static/js/787.ba246c25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bf711071.js"
+  ]
+}
